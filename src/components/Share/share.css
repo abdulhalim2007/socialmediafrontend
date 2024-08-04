@@ -1,0 +1,8 @@
+.inp {
+    border-bottom: 2px solid rgb(202, 202, 202);
+}
+
+.inp:focus {
+    border-bottom: 2px solid rgb(143, 142, 142);
+    outline: none;
+}

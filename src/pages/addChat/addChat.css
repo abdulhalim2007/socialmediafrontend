@@ -1,0 +1,13 @@
+.inputSearch {
+    border-bottom: 2px solid darkgray;
+    background-color: transparent;
+}
+
+.inputSearch:focus {
+    outline: none;    
+    border-bottom: 2px solid gray;
+}
+
+.item {
+    border: 1px solid gray;
+}

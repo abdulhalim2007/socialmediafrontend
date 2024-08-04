@@ -1,0 +1,26 @@
+.sidebar {
+    background-color: rgb(226 232 240);
+}
+
+div .list {
+    padding: 10px;
+}
+
+div .list .item {
+    padding: 20px;
+    cursor: pointer;
+}
+
+div .list .item:hover {
+    /* background-color: rgb(154, 111, 255); */
+    transition-duration: 0.2s;
+}
+
+div .list .item:active {
+    transition-delay: 0.1s;
+}
+
+div .list .item .text {
+    -moz-user-select: none;
+    user-select: none;
+}

@@ -1,0 +1,25 @@
+/* .icon {
+    display: none;
+} */
+
+
+
+.none {
+    display: none;
+}
+
+.myDiv:hover {
+    transition-duration: 0.4s;
+}
+
+.nav-close {
+    position: fixed;
+    transform: translateX(-246.66px);
+    transition: transform 0.25s;
+}
+
+.nav-open {
+    position: fixed;
+    transform: translateX(0);
+    transition: transform 0.75s;
+}

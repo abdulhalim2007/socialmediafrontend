@@ -1,0 +1,18 @@
+.inputText {
+    border-bottom: 3px solid darkgray;
+    padding-bottom: 4px;
+}
+
+.inputText:focus {
+    border-bottom: 3px solid gray;
+    outline: none;
+}
+
+.him {
+    text-align: left;
+}
+
+.him span {
+    background-color: rgb(148 163 184);
+    color: white;
+}

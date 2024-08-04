@@ -1,0 +1,10 @@
+.inp {
+    border-bottom: 2px solid darkgray;
+    padding-bottom: 5px;
+    margin-top: 10px;
+}
+
+.inp:focus {
+    border-bottom: 2px solid gray;
+    outline: none;
+}

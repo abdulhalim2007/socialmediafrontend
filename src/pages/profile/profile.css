@@ -1,0 +1,35 @@
+.avatar {
+    border: 7px solid rgb(245, 245, 245);
+}
+
+#cameraIconCover {
+    visibility: hidden;
+}
+
+#cameraIconProfile {
+    visibility: hidden;
+    width: 35px;
+    height: 35px;
+}
+
+.cover:hover + #cameraIconCover {
+    visibility: visible;
+}
+
+.profile:hover + #cameraIconProfile {
+    visibility: visible;
+}
+
+#cameraIconCover .icon {
+    width: 40px;
+    height: 40px;
+}
+
+#cameraIconProfile .icon2 {
+    width: 30px;
+    height: 30px;
+}
+
+.border-follow {
+    border: 2px solid gray;
+}

@@ -1,0 +1,13 @@
+.container {
+    overflow: auto;
+}
+
+.nav {
+    position: sticky;
+    top: 0px;
+}
+
+.sidebar {
+    position: sticky;
+    top: 0px;
+}
